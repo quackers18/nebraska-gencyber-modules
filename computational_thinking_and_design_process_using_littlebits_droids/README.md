@@ -65,7 +65,7 @@ Design is more than sitting down and starting to code. In the real world when fa
 #### Empathizing and Defining
 I group these two stages together as they are very iterative. 
 
-![design process](../img/empathize.jpg)
+![design process](./img/empathize.jpg)
 > Author/Copyright holder: Teo Yu Siang and Interaction Design Foundation. Copyright licence: CC BY-NC-SA 3.0
 
 Before trying to solve a problem, one must understand it. Complex real-world problems involve more than one stakeholder. If you are trying to design software, for instance, you need to cognizant of _all_ of your users, not just some of them. `Implicit bias` (where problem solvers accidentally leave some users out) can be a real issue if problem solvers don't `empathize` with their users. In this sense, empathizing is the part of the design process where we observe and study our user base, build `user stories` that describe who our users are and what they want to do with our product, and then make sure we have coverage across our user population. Empathy is also important for **setting aside our assumptions** so that our product can meet the needs our users and not ourselves.
